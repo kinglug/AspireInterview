@@ -1,2 +1,0 @@
-# AspireInterview
-Aspire Interview
